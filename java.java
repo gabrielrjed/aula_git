@@ -1,0 +1,1 @@
+system.out.print1n("Hello world! 2");
